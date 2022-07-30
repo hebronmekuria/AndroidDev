@@ -10,9 +10,9 @@ Time spent: approx. 2 hours spent in total
 
 The following **required** functionality is completed:
 
- [x] Image and introductory message displayed on screen
- [x] Button displayed on screen
- [x] Toast with message appears when button is pressed 
+ [✓] Image and introductory message displayed on screen
+ [✓] Button displayed on screen
+ [✓] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
@@ -22,14 +22,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
-<!-- Other options include:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
